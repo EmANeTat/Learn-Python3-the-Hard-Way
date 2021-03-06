@@ -1,4 +1,4 @@
-﻿print ("Mary had a little lamb")
+print ("Mary had a little lamb")
 print ("Its fleece was white as {}." .format ('snow'))
 print ("And everywhere that mary went.")
 print ("." * 10) # what'd that do
